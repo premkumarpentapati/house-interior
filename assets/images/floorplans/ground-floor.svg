@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" font-family="DM Sans, Arial, sans-serif">
+  <rect width="1000" height="720" fill="#FAF6EE"/>
+  <text x="40" y="42" font-size="22" fill="#2C2416" font-weight="600">Ground Floor Plan — Assumed Working Layout</text>
+  <text x="40" y="68" font-size="12" fill="#8A7A65">Typical Indian duplex · ~1,350 sq.ft · North ↑ · Beds S→N preserved</text>
+  <!-- outer walls -->
+  <rect x="60" y="100" width="880" height="560" fill="#F5EDE0" stroke="#2C2416" stroke-width="6"/>
+  <!-- Living -->
+  <rect x="70" y="110" width="360" height="280" fill="#EDE0C8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="250" y="250" text-anchor="middle" font-size="16" fill="#2C2416">LIVING</text>
+  <text x="250" y="272" text-anchor="middle" font-size="11" fill="#8A7A65">18' × 14'</text>
+  <!-- Dining -->
+  <rect x="430" y="110" width="240" height="180" fill="#E8DCC8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="550" y="195" text-anchor="middle" font-size="15" fill="#2C2416">DINING</text>
+  <text x="550" y="215" text-anchor="middle" font-size="11" fill="#8A7A65">12' × 10'</text>
+  <!-- Kitchen -->
+  <rect x="670" y="110" width="260" height="180" fill="#D6C6A8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="800" y="195" text-anchor="middle" font-size="15" fill="#2C2416">KITCHEN</text>
+  <text x="800" y="215" text-anchor="middle" font-size="11" fill="#8A7A65">12' × 10'</text>
+  <!-- Foyer -->
+  <rect x="430" y="290" width="150" height="100" fill="#F5EDE0" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="505" y="345" text-anchor="middle" font-size="13" fill="#2C2416">FOYER</text>
+  <!-- Stair -->
+  <rect x="580" y="290" width="120" height="200" fill="#C4AD84" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="640" y="385" text-anchor="middle" font-size="13" fill="#2C2416">STAIR</text>
+  <!-- Pooja -->
+  <rect x="700" y="290" width="110" height="100" fill="#EDE0C8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="755" y="345" text-anchor="middle" font-size="12" fill="#2C2416">POOJA</text>
+  <!-- Powder -->
+  <rect x="810" y="290" width="120" height="100" fill="#E8DCC8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="870" y="345" text-anchor="middle" font-size="12" fill="#2C2416">POWDER</text>
+  <!-- Guest Bedroom -->
+  <rect x="70" y="390" width="360" height="260" fill="#EDE0C8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="250" y="500" text-anchor="middle" font-size="15" fill="#2C2416">GUEST BEDROOM</text>
+  <text x="250" y="522" text-anchor="middle" font-size="11" fill="#8A7A65">14' × 12' · Bed S→N</text>
+  <!-- bed symbol -->
+  <rect x="200" y="540" width="100" height="60" fill="#FAF6EE" stroke="#C66B4A" stroke-width="2"/>
+  <text x="250" y="575" text-anchor="middle" font-size="10" fill="#C66B4A">BED ↑N</text>
+  <!-- Utility -->
+  <rect x="700" y="390" width="230" height="100" fill="#D6C6A8" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="815" y="445" text-anchor="middle" font-size="13" fill="#2C2416">UTILITY</text>
+  <!-- Store / Passage -->
+  <rect x="430" y="390" width="150" height="100" fill="#F5EDE0" stroke="#9A6C4A" stroke-width="2"/>
+  <text x="505" y="445" text-anchor="middle" font-size="12" fill="#2C2416">PASSAGE</text>
+  <!-- Sit-out -->
+  <rect x="430" y="490" width="500" height="160" fill="#E8F0E4" stroke="#7A8F6E" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="680" y="575" text-anchor="middle" font-size="14" fill="#5A6F52">REAR COURTYARD / SIT-OUT</text>
+  <!-- north arrow -->
+  <g transform="translate(920,90)">
+    <polygon points="0,-22 8,10 -8,10" fill="#2C2416"/>
+    <text x="0" y="28" text-anchor="middle" font-size="11" fill="#2C2416">N</text>
+  </g>
+  <text x="40" y="700" font-size="10" fill="#8A7A65">Working assumption pending client floor-plan PDFs · All structural walls retained · Circulation via foyer–stair core</text>
+</svg>
